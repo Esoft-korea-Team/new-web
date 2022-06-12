@@ -21,10 +21,10 @@
                 >
               </li>
               <li>
-                <NuxtLink
+                <a
                   class="text-white transition hover:text-white/75"
-                  to="https://api.esoftkorea.co.kr/"
-                  >API</NuxtLink
+                  href="https://api.esoftkorea.co.kr/"
+                  >API</a
                 >
               </li>
               <li>
