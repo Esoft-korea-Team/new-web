@@ -23,7 +23,7 @@
               <li>
                 <NuxtLink
                   class="text-white transition hover:text-white/75"
-                  to="/api"
+                  to="https://api.esoftkorea.co.kr/"
                   >API</NuxtLink
                 >
               </li>
@@ -38,10 +38,10 @@
           </nav>
           <div class="flex items-center gap-4">
             <div class="sm:gap-4 sm:flex">
-              <a
+              <NuxtLink
                 class="px-5 py-2.5 text-sm font-medium text-white bg-indigo-500 rounded-md shadow"
-                href="/"
-                >Discord</a
+                to="/discord"
+                >Discord</NuxtLink
               >
             </div>
           </div>

@@ -20,10 +20,10 @@
             작은 영향력을 모아 새로운 미래로 도약하는 Esoft, korea입니다.
           </p>
           <div class="flex flex-wrap justify-center gap-4 mt-8">
-            <a
+            <NuxtLink
               class="block w-full px-12 py-3 text-sm font-medium text-white bg-indigo-500 border border-indigo-500 rounded sm:w-auto active:text-opacity-75 hover:bg-transparent hover:text-white focus:outline-none focus:ring"
-              href="/"
-              >Discord</a
+              to="/discord"
+              >Discord</NuxtLink
             ><NuxtLink
               class="block w-full px-12 py-3 text-sm font-medium text-white border border-indigo-500 rounded sm:w-auto hover:bg-indigo-500 active:bg-indigo-500 focus:outline-none focus:ring"
               to="/recruit"
