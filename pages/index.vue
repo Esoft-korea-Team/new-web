@@ -12,23 +12,22 @@
           <h1
             class="text-3xl font-extrabold text-transparent sm:text-5xl bg-clip-text bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 !leading-tight"
           >
-            새로운 일상으로 도약하다.<span class="hidden sm:block"
-              >Esoft, Korea</span
+            새로운 미래로 도약하다.<span class="hidden sm:block"
+              >Esoft, korea</span
             >
           </h1>
           <p class="max-w-xl mx-auto mt-4 sm:leading-relaxed sm:text-xl">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt
-            illo tenetur fuga ducimus numquam ea!
+            작은 영향력을 모아 새로운 미래로 도약하는 Esoft, korea입니다.
           </p>
           <div class="flex flex-wrap justify-center gap-4 mt-8">
             <a
-              class="block w-full px-12 py-3 text-sm font-medium text-white bg-blue-600 border border-blue-600 rounded sm:w-auto active:text-opacity-75 hover:bg-transparent hover:text-white focus:outline-none focus:ring"
+              class="block w-full px-12 py-3 text-sm font-medium text-white bg-indigo-500 border border-indigo-500 rounded sm:w-auto active:text-opacity-75 hover:bg-transparent hover:text-white focus:outline-none focus:ring"
               href="/"
               >Discord</a
-            ><a
-              class="block w-full px-12 py-3 text-sm font-medium text-white border border-blue-600 rounded sm:w-auto hover:bg-blue-600 active:bg-blue-500 focus:outline-none focus:ring"
-              href="https://forms.gle/s555uuasuLuSWydc6"
-              >Recruit</a
+            ><NuxtLink
+              class="block w-full px-12 py-3 text-sm font-medium text-white border border-indigo-500 rounded sm:w-auto hover:bg-indigo-500 active:bg-indigo-500 focus:outline-none focus:ring"
+              to="/recruit"
+              >Recruit</NuxtLink
             >
           </div>
         </div>
@@ -73,9 +72,9 @@
         </div>
 
         <div class="mt-12 text-center">
-          <a
-            class="inline-flex items-center px-8 py-3 mt-8 text-white bg-pink-600 border border-pink-600 rounded hover:bg-transparent active:text-pink-500 focus:outline-none focus:ring"
-            href="https://forms.gle/s555uuasuLuSWydc6"
+          <NuxtLink
+            class="inline-flex items-center px-8 py-3 mt-8 text-white bg-indigo-500 border border-indigo-500 rounded hover:bg-transparent active:text-indigo-500 focus:outline-none focus:ring"
+            to="/recruit"
             ><span class="text-sm font-medium"> Recruit </span
             ><svg
               class="w-5 h-5 ml-3"
@@ -91,14 +90,14 @@
                 d="M17 8l4 4m0 0l-4 4m4-4H3"
               ></path>
             </svg>
-          </a>
+          </NuxtLink>
         </div>
       </div>
     </section>
     <div class="hidden md:flex w-full justify-center bg-gray-900">
       <iframe
         src="https://business.esoftkorea.co.kr/forms/"
-        style="border: 0; width: 900px; height: 130px"
+        style="border: 0; width: 930px; height: 150px"
         scrolling="no"
       ></iframe>
     </div>

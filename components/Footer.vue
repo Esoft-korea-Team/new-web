@@ -2,7 +2,7 @@
   <footer class="bg-gray-900">
     <div class="max-w-5xl px-4 py-16 mx-auto sm:px-6 lg:px-8">
       <div class="flex justify-center text-gray-300">
-        &copy; 2022. Esoft, Korea Corp. All rights reserved.
+        &copy; Esoft, Korea Corp. All rights reserved.
       </div>
       <p
         class="max-w-md mx-auto mt-6 leading-relaxed text-center text-gray-400"
