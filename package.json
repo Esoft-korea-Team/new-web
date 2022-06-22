@@ -7,7 +7,7 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "deploy": "rm -rf /var/www/new && nuxt generate && cp -r dist/ /var/www/new",
+    "deploy": "rm -rf /var/www/main && nuxt generate && cp -r dist/ /var/www/main",
     "lint:prettier": "prettier --check .",
     "lint": "yarn lint:prettier",
     "lintfix": "prettier --write --list-different ."
