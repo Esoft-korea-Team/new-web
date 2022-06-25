@@ -7,8 +7,8 @@
       <p
         class="max-w-md mx-auto mt-6 leading-relaxed text-center text-gray-400"
       >
-        <a href="https://old.esoftkorea.co.kr/main/service_policy/">이용약관</a
-        >&nbsp;|&nbsp;<a href="https://old.esoftkorea.co.kr/main/policy/"
+        <a href="https://esoftkorea.co.kr/service_policy/">이용약관</a
+        >&nbsp;|&nbsp;<a href="https://esoftkorea.co.kr/main/policy/"
           >개인정보 처리방침</a
         >
       </p>
