@@ -7,8 +7,8 @@
       <p
         class="max-w-md mx-auto mt-6 leading-relaxed text-center text-gray-400"
       >
-        <a href="https://sskate.notion.site/03e0213980214efd9d6125950e9bc132">이용약관</a
-        >&nbsp;|&nbsp;<a href="https://sskate.notion.site/62a9daf309d34803a3f8c1837d1edd48"
+        <a href="https://esoftkorea.co.kr/service_policy">이용약관</a
+        >&nbsp;|&nbsp;<a href="https://esoftkorea.co.kr/policy"
           >개인정보 처리방침</a
         >
       </p>
