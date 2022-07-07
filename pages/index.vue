@@ -47,7 +47,7 @@
         <div class="grid grid-cols-1 gap-8 mt-8 md:grid-cols-2 lg:grid-cols-3">
           <div
             class="block p-8 transition border border-gray-800 shadow-xl rounded-xl hover:shadow-pink-500/10 hover:border-pink-500/10"
-            v-for="data in this.crew"
+            v-for="data in this.crew.json"
             :key="data"
           >
             <img
