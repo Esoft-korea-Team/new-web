@@ -1,50 +1,37 @@
 [
   {
-    "id": "605589169372135432",
-    "avatar": "b7bedf0e60548ed98abf24a18230aef8",
-    "position": "멤버 | 개발팀",
-    "user_tag": "00000000#1050"
-  },
-  {
-    "id": "709356331701895268",
-    "avatar": "de99615201b52ee8f24f0eece768177e",
-    "position": "멤버 | 서비스1팀",
-    "user_tag": "Jiroovy#0001"
-  },
-  {
-    "id": "775684170650877952",
-    "avatar": "9a4f5b45f999de8a5d9015bf505ad592",
+    "url": "https://file.esoftkorea.co.kr/assets/member/정혁.jpg",
     "position": "대표 | 인사과, 서비스1팀, 개발팀",
-    "user_tag": "정혁#8609"
+    "user_tag": "정혁#0001"
   },
   {
-    "id": "902700864748273704",
-    "avatar": "f292c09d009a95020f352bdafa8b8d86",
-    "position": "팀장 | 개발팀",
-    "user_tag": "SSKATE#3663"
-  },
-  {
-    "id": "922405519459778560",
-    "avatar": "aec6501dc2609f8a0c66ab0742095355",
-    "position": "멤버 | 서비스1팀",
-    "user_tag": "𝐁𝐎𝐍𝐃𝐀𝐋#5976"
-  },
-  {
-    "id": "967033101735833630",
-    "avatar": "9f90e31de924ffb9339914a5ae60fb90",
-    "position": "멤버 | 개발팀",
-    "user_tag": "핵데이#1111"
-  },
-  {
-    "id": "971769564692095027",
-    "avatar": "e46aca95cfa47ae778b90e6f14fea568",
+    "url": "https://file.esoftkorea.co.kr/assets/member/선영.jpg",
     "position": "과장 | 인사과",
     "user_tag": "선영#9104"
   },
   {
-    "id": "844904770203549726",
-    "avatar": "7fdfc8416d5132b8b7ae4ef1eaf255d9",
+    "url": "https://file.esoftkorea.co.kr/assets/member/해커.jpg",
     "position": "팀장 | 서비스1팀",
     "user_tag": "해커#8201"
+  },
+  {
+    "url": "https://file.esoftkorea.co.kr/assets/member/씅케.jpg",
+    "position": "팀장 | 개발팀",
+    "user_tag": "SSKATE#0421"
+  },
+  {
+    "url": "https://file.esoftkorea.co.kr/assets/member/지루비.jpg",
+    "position": "멤버 | 서비스1팀",
+    "user_tag": "Jiroovy#0001"
+  },
+  {
+    "url": "https://file.esoftkorea.co.kr/assets/member/본달.jpg",
+    "position": "멤버 | 서비스1팀",
+    "user_tag": "𝐁𝐎𝐍𝐃𝐀𝐋#5976"
+  },
+  {
+    "url": "https://file.esoftkorea.co.kr/assets/member/쿠로.jpg",
+    "position": "멤버 | 개발팀",
+    "user_tag": "00000000#1050"
   }
 ]
