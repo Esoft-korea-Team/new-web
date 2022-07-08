@@ -53,11 +53,7 @@
             <img
               class="w-10 h-10 rounded-full"
               :src="
-                'https://cdn.discordapp.com/avatars/' +
-                data.id +
-                '/' +
-                data.avatar +
-                '.png'
+              data.url
               "
               alt="profile image"
               loading="lazy"
