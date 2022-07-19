@@ -112,4 +112,4 @@ export default {
     return { crew: JSON.parse(JSON.stringify(crew)).default }
   },
 }
-</script>
+</script> 
