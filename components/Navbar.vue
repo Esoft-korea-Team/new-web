@@ -14,13 +14,6 @@
             <h2 class="sr-only" id="header-navigation">Header navigation</h2>
             <ul class="flex items-center gap-6 text-s">
               <li>
-                <NuxtLink
-                  class="text-white transition hover:text-white/75"
-                  to="/"
-                  >Home</NuxtLink
-                >
-              </li>
-              <li>
                 <a
                   class="text-white transition hover:text-white/75"
                   href="https://api.esoftkorea.co.kr/"
@@ -32,6 +25,20 @@
                   class="text-white transition hover:text-white/75"
                   to="/recruit"
                   >Recruit</NuxtLink
+                >
+              </li>
+              <li>
+                <a
+                  class="text-white transition hover:text-white/75"
+                  href="https://file.esoftkorea.co.kr"
+                  >File Upload</a
+                >
+              </li>
+              <li>
+                <a
+                  class="text-white transition hover:text-white/75"
+                  href="https://dstm.esoftkorea.co.kr"
+                  >DSTM</a
                 >
               </li>
             </ul>
