@@ -7,10 +7,9 @@
       <p
         class="max-w-md mx-auto mt-6 leading-relaxed text-center text-gray-400"
       >
-        <a href="https://esoftkorea.co.kr/service_policy">이용약관</a
-        >&nbsp;|&nbsp;<a href="https://esoftkorea.co.kr/policy"
-          >개인정보 처리방침</a
-        >
+        <a href="https://esoftkorea.co.kr/policy"개인정보 처리방침</a>
+        &nbsp;|&nbsp;
+        <a href="https://esoftkorea.co.kr/service_policy">서비스 약관</a>
       </p>
       <ul class="flex justify-center gap-6 mt-12 md:gap-8">
         <li>
