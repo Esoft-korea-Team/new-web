@@ -12,7 +12,7 @@
           <h1
             class="text-3xl font-extrabold text-transparent sm:text-5xl bg-clip-text bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 !leading-tight"
           >
-            새로운 미래로 도약하다.<span class="hidden sm:block"
+            새로운 미래로 도약하다.<span class="hidden sm:block" 
               >Esoft, korea</span
             >
           </h1>
