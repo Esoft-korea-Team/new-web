@@ -1,7 +1,7 @@
 @CHARSET
 @font-face {
 	font-family: 'Pretendard Variable';
-    src: url(/font.woff2) format('woff2');
+    src: url(https://esoftkorea.co.kr/font.woff2) format('woff2');
 }
 body {
 	font-family: Pretendard Variable;
