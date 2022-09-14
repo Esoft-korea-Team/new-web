@@ -38,9 +38,9 @@
     <section class="text-white bg-gray-900">
       <div class="max-w-screen-xl px-4 py-16 mx-auto sm:px-6 lg:px-8">
         <div class="max-w-lg mx-auto text-center">
-          <h2 class="text-3xl font-bold sm:text-4xl">Esoft, Korea 팀원</h2>
+          <h2 class="text-3xl font-bold sm:text-4xl">Esoft, korea 팀원</h2>
           <p class="mt-4 text-gray-300">
-            저희 Esoft, Korea에서 일하시는 팀원을 확인하세요.
+            저희 Esoft, korea에서 일하시는 팀원을 확인하세요.
           </p>
         </div>
 
