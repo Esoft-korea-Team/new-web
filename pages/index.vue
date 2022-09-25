@@ -66,7 +66,7 @@
             </p>
           </div>
         </div>
-
+        
         <div class="mt-12 text-center">
           <NuxtLink
             class="inline-flex items-center px-8 py-3 mt-8 text-white bg-indigo-500 border border-indigo-500 rounded hover:bg-transparent active:text-indigo-500 focus:outline-none focus:ring"
@@ -113,5 +113,4 @@ export default {
   },
 }
 </script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3472432193291291"
-     crossorigin="anonymous"></script>
+
