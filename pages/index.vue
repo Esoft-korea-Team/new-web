@@ -112,4 +112,6 @@ export default {
     return { crew: JSON.parse(JSON.stringify(crew)).default }
   },
 }
-</script> 
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3472432193291291"
+     crossorigin="anonymous"></script>
